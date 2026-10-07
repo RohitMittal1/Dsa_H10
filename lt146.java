@@ -13,7 +13,7 @@ class lt146 {
 
     Node head = new Node(-1, -1);
     Node tail = new Node(-1, -1);
-    int cap;
+    int cap;lt
     HashMap<Integer, Node> m = new HashMap<>();
 
     public LRUCache(int capacity) {
